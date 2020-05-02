@@ -21,7 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="07472756-e155-49c2-97ea-6f499370e785" name="Default Changelist" comment="test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,7 +189,9 @@
       <workItem from="1588318219239" duration="2971000" />
       <workItem from="1588327192132" duration="608000" />
       <workItem from="1588337308080" duration="674000" />
-      <workItem from="1588441803501" duration="3270000" />
+      <workItem from="1588441803501" duration="3459000" />
+      <workItem from="1588450937898" duration="293000" />
+      <workItem from="1588451256583" duration="1228000" />
     </task>
     <task id="LOCAL-00001" summary="Login part1">
       <created>1588285961768</created>
@@ -213,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588442886942</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="test">
+      <created>1588450699891</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1588450699891</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -242,10 +250,10 @@
       <screen x="62" y="0" width="1304" height="768" />
     </state>
     <state x="461" y="228" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/62.0.1304.768@62.0.1304.768" timestamp="1588448689589" />
-    <state x="339" y="0" key="CommitChangelistDialog2" timestamp="1588448321618">
+    <state x="339" y="0" key="CommitChangelistDialog2" timestamp="1588451289448">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
-    <state x="339" y="0" key="CommitChangelistDialog2/62.0.1304.768@62.0.1304.768" timestamp="1588448321618" />
+    <state x="339" y="0" key="CommitChangelistDialog2/62.0.1304.768@62.0.1304.768" timestamp="1588451289448" />
     <state x="494" y="139" key="FileChooserDialogImpl" timestamp="1588447978063">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
