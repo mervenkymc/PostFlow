@@ -20,3 +20,7 @@ Route::get('/', 'welcomeController@welcome');
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+
+Route::view('/mainpage' , 'mainpage');
+Route::view('/myprofile' , 'profile');
+Route::view('/flow' , 'flow');

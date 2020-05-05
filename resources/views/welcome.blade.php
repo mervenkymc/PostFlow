@@ -11,9 +11,7 @@
 
     </head>
     <body>
-        <div>
-            <h1>Hoşgeldiniz</h1>
-        </div>
+
 
     </body>
 </html>
